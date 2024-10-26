@@ -119,6 +119,4 @@ else:
 - **Secret Key**: Provide a unique, secure `secret_key` for token management.
 - **Cookie Key**: Customize the `cookie_key` if needed to specify the name of the authentication cookie.
 
-## License
 
-This project is licensed under the MIT License.
