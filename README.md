@@ -20,7 +20,7 @@ pip install streamlit pyodbc itsdangerous streamlit-cookies-manager
 
 ## Setup
 
-1. Clone this repository and add `auth.py` to your Streamlit app directory.
+1. Clone this repository and add `StreamlitAuthManager.py` to your Streamlit app directory.
 2. Prepare your database and connection configuration with user credentials.
 
 ## Usage
